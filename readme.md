@@ -1,5 +1,5 @@
 # Covid 19 Tracker App
-
+[Link](https://covid-19-tracker-omer-genc.vercel.app)
 ## Techs:
 1. React
 2. Vite
