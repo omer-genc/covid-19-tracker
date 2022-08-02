@@ -113,7 +113,7 @@ function App() {
     <React.Fragment>
       <div className="container max-w-5xl mx-auto space-y-8 px-4 pt-16">
         <section className="flex justify-center">
-          <img alt="logo" src="/mainImage.png" />
+          <img alt="logo" src="https://raw.githubusercontent.com/omer-genc/covid-19-tracker/main/public/mainImage.png" />
         </section>
 
         <section className="space-y-4">
